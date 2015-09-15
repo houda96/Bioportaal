@@ -1,0 +1,17 @@
+Vragen Biography Net
+
+Jullie idee: xml en pdf’s van het biografisch portaal omzetten in rdf = een semantic network .
+
+1. In hoeverre is dat jullie gelukt?
+
+2. Is alle data gecovert in jullie rdf? Kunnen wij dat beter gebruiken?
+
+ 
+
+Wat wij willen doen: 
+- Gerelateerde personen tonen bij zoekresultaten. (network data zou heel handig zijn).
+- Percentages. Dus bijvoorbeeld: hoeveel nederlandse wiskundigen waren vrouw? (Statistische bewerkingen, xml is prima, as long as alle metadata daar in staat.)
+
+3.De metadata in de xml files zijn vaak verre van compleet. Hoe zit dat met jullie rdf data? Hebben jullie daar tips / oplossingen voor?
+
+
