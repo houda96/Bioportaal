@@ -3,25 +3,58 @@ Honneursproject Biografisch Portaal
 Houda Alberts & Clara Tump
 Begeleider: Maarten Marx 
 
-Gedaan:
-Elasticsearch geinstalleerd op allebei onze laptops.
-Elasticsearch kan nu worden opgevraagd met requests.get(localhost:9200)
+## Logboek
+11 september 2015:
+- Gesprek met Maarten
+- Korte introductie
+- Ideeën besproken, drie uitgekomen
+- Afspraak gemaakt over de afspraken met Maarten
+- Git opzetten voor communicatie en opslag middelen
 
+18 september 2015:
+- Afspraak met de mensen achter Bioportaal
+- Hebben verteld over hun project
+- Uitgelegd hoe de data werkt 
+- Uitgelegd wat ieder zijn taak is
+- Wij mogen hun data gebruiken als we willen
+	- Deze data mag alleen niet openbaar gemaakt worden
 
+25 september 2015:
+- Gesprek met Maarten
+- Verteld over het gesprek met Bioportaal
+- Gepraat over de huidige voortgang
+- Benodigheden downloaden en kijken hoe het te gebruiken is
+- Moet iets meer tempo inkomen
 
+26 september 2015:
+- Samenwerking op Sciencepark
+- Geprobeerd om een keuze te maken over wat we willen doen
+	- Geografische plaatsen en familierelaties nog twijfels over
+	- Kijken wat Huygens liever wil
+- Geprobeerd ElasticSearch op te zetten
+	- Niet gelukt
 
-Te doen:
-Antske's rdf data downloaden geeft een error (broken pipeline?) - we hebben haar gemaild of ze ons hiermee kan helpen.
-Git up to date maken.
-Uitzoeken hoe we in elkaar kunnen omzetten: rdf , json (,xml)
-Uiteindelijk: Ook biografieen van familieleden tonen en eventueel gemiddelde leeftijden. 
+1 oktober 2015:
+- Afspraak met de mensen op Huygens
+- Hebben een voorkeur voor de familierelaties
+- Hebben verteld welke bronnen het beste zijn om mee te beginnen
+- Afgesproken om verder te gaan met de familierelaties
+- Willen onze resultaten gebruiken als ze goed zijn
 
+15 oktober 2015:
+- Samenwerking bij een werkcollege van Zoekmachines
+- Hulp gekregen bij het opzetten van ElasticSearch, wat eerst niet lukte
+- Opzet van ElasticSearch is gelukt
+- Konden niet bij de data van Bioportaal, daar hebben we over gemaild
 
+18 oktober 2015:
+- Samenwerking vanaf thuis
+- Gelukt om de data van Bioportaal te krijgen
+- Logboek geupdated
+- Afspraak gemaakt voor aankomende week
+- Volgend doel: met een klein voorbeeld proberen om gegevens in te laden in ElasticSearch
+	- Zodra dit werkt, gelijk erna de huidige data inladen in ElasticSearch, zodat we 		  dit kunnen gebruiken 
 
-Besloten niet te doen:
-Voor een bestand uitzoeken hoe DBPedia opgevraagd kan worden en hoe de data hiervan gebruikt kan worden.
-	Dit kan dus niet, want er zijn veel te weinig mensen die in DBPedia staan die ook op Biografisch portaal staan. 
-	We houden het dus op de (meta) data of de informatie uit Antske's pipeline die we hebben gekregen. 
 
 
 
