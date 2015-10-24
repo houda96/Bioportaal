@@ -55,6 +55,13 @@ Begeleider: Maarten Marx
 - Volgend doel: met een klein voorbeeld proberen om gegevens in te laden in ElasticSearch
 	- Zodra dit werkt, gelijk erna de huidige data inladen in ElasticSearch, zodat we 		  dit kunnen gebruiken 
 
+24 oktober 2015:
+- Samenwerking vanaf thuis
+- Gelukt om kleine voorbeelden in te laden in ElasticSearch
+- Package gevonden die de rdf data om kan zetten in JSON, om weer in ElasticSearch te laden
+- Afspraak om maandag en dinsdag te gaan proberen om alles in te laden op deze manier
+
+
 
 
 

@@ -13,12 +13,26 @@ Begeleider: Maarten Marx
 
 18 september 2015:
 - Afspraak met de mensen achter Bioportaal
+- Hebben verteld over hun project
+- Uitgelegd hoe de data werkt 
+- Uitgelegd wat ieder zijn taak is
+- Wij mogen hun data gebruiken als we willen
+	- Deze data mag alleen niet openbaar gemaakt worden
 
 25 september 2015:
 - Gesprek met Maarten
+- Verteld over het gesprek met Bioportaal
+- Gepraat over de huidige voortgang
+- Benodigheden downloaden en kijken hoe het te gebruiken is
+- Moet iets meer tempo inkomen
 
 26 september 2015:
 - Samenwerking op Sciencepark
+- Geprobeerd om een keuze te maken over wat we willen doen
+	- Geografische plaatsen en familierelaties nog twijfels over
+	- Kijken wat Huygens liever wil
+- Geprobeerd ElasticSearch op te zetten
+	- Niet gelukt
 
 1 oktober 2015:
 - Afspraak met de mensen op Huygens
@@ -38,7 +52,8 @@ Begeleider: Maarten Marx
 - Gelukt om de data van Bioportaal te krijgen
 - Logboek geupdated
 - Afspraak gemaakt voor aankomende week
-- Volgend doel: met 
+- Volgend doel: met een klein voorbeeld proberen om gegevens in te laden in ElasticSearch
+	- Zodra dit werkt, gelijk erna de huidige data inladen in ElasticSearch, zodat we 		  dit kunnen gebruiken 
 
 
 
